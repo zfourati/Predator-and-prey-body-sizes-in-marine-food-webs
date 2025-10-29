@@ -32,8 +32,8 @@
 ### 4) Data cleaning : Zeineb
     * remove les valeurs impo
     * remove les colonnes avec plus de 70/60 ? % 
-    * Add column to convert length in SI (predator)
-    * Handle nans + duplicates (indiviidual id ne pas enlever, juste lui assigner une valeur)
+    * Add column to convert length in SI (predator) DONE --------------------------------
+    * Handle nans + duplicates (indiviidual id ne pas enlever, juste lui assigner une valeur) DONE ------------------------
     
 
 
